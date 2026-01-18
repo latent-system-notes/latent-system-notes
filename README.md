@@ -19,18 +19,6 @@ Building intelligent systems with a focus on retrieval-augmented generation (RAG
 - Python 3.11+
 - Git, Docker
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latent-system-notes&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latent-system-notes&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=latent-system-notes&theme=default&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
